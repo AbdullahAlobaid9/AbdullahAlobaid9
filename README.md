@@ -16,5 +16,5 @@ As a Backend Developer with a zest for Django 🐍 and a budding interest in Dev
 - 🌱 When not coding, I'm probably exploring new tech trends or cloud innovations.
 
 ## Connect With Me:
-- 💌 [LinkedIn]([YourLinkedInURL](https://www.linkedin.com/in/abdullah-alobaid9/)https://www.linkedin.com/in/abdullah-alobaid9/) | Let's network and share ideas!
+- 💌 [LinkedIn](https://www.linkedin.com/in/abdullah-alobaid9/) | Let's network and share ideas!
 
