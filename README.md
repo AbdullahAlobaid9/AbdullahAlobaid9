@@ -10,11 +10,8 @@ I'm Abdullah, a passionate backend developer diving deep into Django 🐍 and ex
 
 ## Let's Connect:
 
-- 📫 How to reach me: [LinkedIn]https://www.linkedin.com/in/abdullah-alobaid9/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullah-alobaid9/)
 - ⚡ Fun fact: I love to automate everything. If it can be automated, I will automate it!
 
-## My GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalobaid9&show_icons=true)
 
 Thank you for visiting my GitHub! Let's collaborate and make something awesome together.
